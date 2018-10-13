@@ -35,6 +35,7 @@ Now, using the definition of *set-builder* notation
 We can transform an expression written in set theory to an expression written in Boolean algebra!
 
 For example
+
 ![](https://latex.codecogs.com/png.latex?%5Cbegin%7Balign*%7D%20x%20%26%5Cin%20%28A%20%5Ccup%20B%29%20%5Cbackslash%20C%20%5C%5C%20%28x%20%26%5Cin%20%28A%20%5Ccup%20B%29%29%20%5Cwedge%20%5Cneg%20%28x%20%5Cin%20C%29%20%5C%5C%20%28x%20%26%5Cin%20A%20%5Cvee%20x%20%5Cin%20B%29%20%5Cwedge%20%5Cneg%20%28x%20%5Cin%20C%29%20%5Cend%7Balign*%7D)
 
 If we replace set theory notation by equivalent notation of Boolean algebra, i.e., *x*∈*A*, *x*∈*B*, *x*∈*C* to *P(x)*, *Q(x)*, *R(x)* respectively, we will result in a valid Boolean expression or, more strictly, a Boolean function from variable x.
