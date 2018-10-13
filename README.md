@@ -56,7 +56,7 @@ And so, to check if two sets are equal, we will parse given expression in set th
 ![](https://latex.codecogs.com/png.latex?%5Ctext%7BResulting%20in%20time%20complexity%20%7DO%282%5En%29%20%5Ctext%7B%2C%20for%20n%20is%20the%20number%20of%20sets%7D.)
 
 ### Design conventions
-Surely, this project would be to easy to do **dirty**. So, I say `NO!`.
+Surely, this project would be too easy to do **dirty**. So, I say `NO!`.
 Here is what I tried to follow will writing this:
 1. Total modularity of the code
 2. Ease of augmenting parser possibilities
