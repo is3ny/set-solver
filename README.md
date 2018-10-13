@@ -25,6 +25,7 @@ Then given that set *A = {x | P(x)}* and set *B = {x | Q(x)}*, we can define bas
 ![](https://latex.codecogs.com/gif.latex?%5Ctext%7BUnion%3A%20%7D%20A%20%5Ccup%20B%20%3D%20%5C%7B%20x%20%5Ctext%7B%20%7D%20%7C%20%5Ctext%7B%20%7D%20P%28x%29%20%5Cvee%20Q%28x%29%20%5C%7D)
 
 ![](https://latex.codecogs.com/gif.latex?%5Ctext%7BIntersection%3A%20%7D%20A%20%5Ccap%20B%20%3D%20%5C%7B%20x%20%5Ctext%7B%20%7D%20%7C%20%5Ctext%7B%20%7D%20P%28x%29%20%5Cwedge%20Q%28x%29%20%5C%7D)
+
 ![](https://latex.codecogs.com/gif.latex?%5Ctext%7BDifference%3A%20%7D%20A%20%5Csetminus%20B%20%3D%20%5C%7B%20x%20%5Ctext%7B%20%7D%20%7C%20%5Ctext%7B%20%7D%20P%28x%29%20%5Cwedge%20%5Cneg%20Q%28x%29%20%5C%7D)
 
 ###
