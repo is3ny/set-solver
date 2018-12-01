@@ -18,6 +18,7 @@ int main(int argc, char *argv[]) {
   }
 
   // TODO: Error messages mention the flawed set
+  // TODO: Complement operator !
 
   auto *parser = new Parser(std::string(argv[1]));
   if (!parser->tokenize()) {
