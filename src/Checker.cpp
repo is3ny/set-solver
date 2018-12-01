@@ -2,7 +2,7 @@
 // Created by isabelle on 12/1/18 10:10 PM.
 //
 
-#include "Checker.hpp"
+#include "../include/Checker.hpp"
 
 Checker::Checker(ast::node *set1, ast::node *set2) : set1(set1), set2(set2)  {
   equal = true;

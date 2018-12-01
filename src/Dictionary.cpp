@@ -1,4 +1,4 @@
-#include "Dictionary.hpp"
+#include "../include/Dictionary.hpp"
 #include <cstring>
 
 dict::node::node(TokenType type) : type(type) {

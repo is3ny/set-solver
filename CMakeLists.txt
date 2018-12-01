@@ -3,4 +3,4 @@ project(set-solver)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(set-solver main.cpp ast.cpp ast.hpp Dictionary.cpp Dictionary.hpp Parser.cpp Parser.hpp Token.hpp Checker.hpp Checker.cpp)
+add_executable(set-solver src/main.cpp src/ast.cpp include/ast.hpp src/Dictionary.cpp include/Dictionary.hpp src/Parser.cpp include/Parser.hpp include/Token.hpp include/Checker.hpp src/Checker.cpp)

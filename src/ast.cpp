@@ -1,4 +1,4 @@
-#include "ast.hpp"
+#include "../include/ast.hpp"
 #include <cstdio>
 
 namespace ast {

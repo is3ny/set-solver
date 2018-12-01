@@ -2,8 +2,8 @@
  * Isabelle Lightray 2018-12-01 16:39
  */
 
-#include "Parser.hpp"
-#include "Checker.hpp"
+#include "../include/Parser.hpp"
+#include "../include/Checker.hpp"
 
 #include <cstdio>
 #include <string>
